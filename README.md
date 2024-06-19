@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Über das Projekt
 
-NXT.Tarkov ist ein Escape from Tarkov PVE Projekt für diejenigen die es leid sind in Tarkov nur von Cheatern überrannt zu werden.
+NXT.Tarkov ist ein Escape from Tarkov PVE Projekt für diejenigen die es leid sind in Tarkov nur von Cheatern überrannt zu werden.<p>
 Also haben wir es uns zum Ziel gemacht mit Hilfe von [SPT](https://sp-tarkov.com/) und [SIT](https://docs.stayintarkov.com/en/index.html) einen Server zu hosten auf dem ihr inruhe und frieden
 mit euren Mates spielen könnt, Questen könnt und das alles gegen "einfache" Bots (die sind manchmal garnicht so einfach).
 Durch SPT liefern wir eine Relativ gute Experience, es ist alles Vorhanden, PMC's, SCAV's, Raider SCAV's, Bosse etc. etc.
