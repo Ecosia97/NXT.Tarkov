@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/stayintarkov/SIT.Manager.Avalonia">
-    <img src="SIT.Manager/Assets/sit-logo-5.png" alt="Logo" height="240">
+  <a>
+    <img src="https://github.com/stayintarkov/SIT.Manager.Avalonia/blob/master/SIT.Manager/Assets/sit-logo-5.png?raw=true" alt="Logo" height="240">
   </a>
 </div>
 
