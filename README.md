@@ -43,7 +43,7 @@ This installation guide is the recommended way of structuring your SIT install
 
 <!-- USAGE -->
 ## Verwendung
-# Teils W.I.P
+#### Teils W.I.P
 1. Starte den SIT.Manager
 2. Gehe auf den Tab "Install" und klicke auf "Install SIT". der SIT Manager wird dich jetzt durch die Installation begleiten, es ist alles ziemlich selbsterklärend. Solltest du dennoch Probleme mit der Installation haben, Helfen wir dir Gerne!
 
