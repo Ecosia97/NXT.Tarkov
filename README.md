@@ -35,7 +35,7 @@ This installation guide is the recommended way of structuring your SIT install
 ### Installation
 
 1. Erstelle einen Neuen Ordner für die SIT Installation. (z.b. C:\BSG\Games\SIT)
-2. In dem neu erstellten SIT Ordner erstellst du jetzt noch 3 weitere ordner: `Game` und `Manager`
+2. In dem neu erstellten SIT Ordner erstellst du jetzt noch 2 weitere ordner: `Game` und `Manager`
 3. Downloade den Aktuellsten [SIT.Manager](https://github.com/stayintarkov/SIT.Manager.Avalonia/releases/latest)
 4. Entpacke den Download in den `Manager` Ordner.
 5. <b>(OPTIONAL)</b> Finde und erstelle eine Desktop Verknüpfung für `SIT.Manager.Avalonia.Desktop.exe`
